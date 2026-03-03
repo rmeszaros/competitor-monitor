@@ -1,0 +1,19 @@
+{
+  "competitors": [
+    "https://competitor-one.com",
+    "https://competitor-two.com/pricing",
+    "https://competitor-three.com/blog"
+  ],
+
+  "digest_day": "monday",
+
+  "output_type": "print",
+
+  "slack_webhook_url": "https://hooks.slack.com/services/T.../B.../...",
+
+  "email_smtp_host": "smtp.gmail.com",
+  "email_smtp_port": 587,
+  "email_sender": "you@gmail.com",
+  "email_password": "your-gmail-app-password",
+  "email_recipient": "team@yourcompany.com"
+}

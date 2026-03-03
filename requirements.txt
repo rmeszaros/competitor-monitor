@@ -1,0 +1,3 @@
+anthropic>=0.40.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
