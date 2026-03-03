@@ -2,6 +2,10 @@
 
 Automated competitor monitoring powered by Claude AI. Fetches competitor pages daily, detects meaningful changes, and sends a weekly digest to Slack or email.
 
+**The Problem.** Product managers and founders waste hours manually checking competitor websites for pricing, feature, or messaging changes — and still miss things.
+
+**The Solution.** Competitor Monitor automatically fetches your configured URLs on a daily schedule, uses Claude to analyse what actually changed, and delivers a concise weekly digest to your Slack channel or inbox — no manual checks required.
+
 ## How it works
 
 ```
